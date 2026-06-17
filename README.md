@@ -1,20 +1,92 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🧠 NeuroXplain AI: Explainable Neuro-Symbolic Clinical Decision Framework
 
-# Run and deploy your AI Studio app
+🔗 **Live Demo:** https://neuroxplainai.netlify.app/
+🔗 **GitHub Repository:** https://github.com/Khushikri29/NeuroXplain_AI
 
-This contains everything you need to run your app locally.
+## 📌 Overview
 
-View your app in AI Studio: https://ai.studio/apps/b9dab99f-4c01-42ed-853e-1e0e875b1df3
+NeuroXplain AI is an Explainable AI (XAI) framework designed to enhance transparency and trust in clinical decision-making systems. The project combines deep learning and explainable AI techniques to analyze neurological data and provide interpretable predictions for healthcare applications.
 
-## Run Locally
+The system aims to bridge the gap between high-performing AI models and human-understandable explanations, enabling clinicians to make informed decisions with confidence.
 
-**Prerequisites:**  Node.js
+---
+
+## ✨ Features
+
+* 🧠 AI-powered neurological data analysis
+* 📊 Explainable predictions using Grad-CAM visualizations
+* 🔍 Feature importance interpretation
+* 🤖 Neuro-Symbolic AI integration
+* 📈 Interactive and user-friendly dashboard
+* ⚡ Real-time prediction and analysis
+* 🔒 Transparent and trustworthy AI outputs
+* 🌐 Responsive web interface
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+* HTML5
+* CSS3
+* JavaScript
+
+### Backend
+
+* Python
+
+### Machine Learning & AI
+
+* TensorFlow / Keras
+* Convolutional Neural Networks (CNN)
+* Grad-CAM
+* Explainable AI (XAI)
+* Neuro-Symbolic AI
+
+### Deployment
+
+* Netlify
+
+### Tools & Libraries
+
+* NumPy
+* Pandas
+* Matplotlib
+* Scikit-learn
+
+---
+
+## 🚀 Installation
+
+```bash
+git clone https://github.com/Khushikri29/NeuroXplain_AI.git
+cd NeuroXplain_AI
+pip install -r requirements.txt
+python app.py
+```
+
+---
+
+## 📷 Screenshots
+
+Add screenshots of:
+
+* Home Page
+* Prediction Dashboard
+* Grad-CAM Visualization
+* Results Page
+
+---
+
+## 🎯 Future Enhancements
+
+* Multi-modal medical data support
+* Advanced explainability techniques
+* Model optimization for faster inference
+* Integration with clinical datasets
+* Cloud deployment with APIs
+
+---
 
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
