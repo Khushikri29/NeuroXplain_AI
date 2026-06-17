@@ -1,0 +1,8 @@
+{
+  "name": "NeuroXplain AI",
+  "description": "Explainable Neuro-Symbolic Clinical Decision System for AI-powered MRI and symptom analysis.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
