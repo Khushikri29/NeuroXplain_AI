@@ -10,50 +10,51 @@ NeuroXplain AI is an Explainable AI (XAI) framework designed to enhance transpar
 The system aims to bridge the gap between high-performing AI models and human-understandable explanations, enabling clinicians to make informed decisions with confidence.
 
 ---
-
-## ✨ Features
-
-* 🧠 AI-powered neurological data analysis
-* 📊 Explainable predictions using Grad-CAM visualizations
-* 🔍 Feature importance interpretation
-* 🤖 Neuro-Symbolic AI integration
-* 📈 Interactive and user-friendly dashboard
-* ⚡ Real-time prediction and analysis
-* 🔒 Transparent and trustworthy AI outputs
-* 🌐 Responsive web interface
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
 
+* React.js
+* TypeScript
 * HTML5
 * CSS3
-* JavaScript
+* Vite
 
-### Backend
+### Libraries & Packages
 
-* Python
+* React Hooks
+* Axios (if used for API calls)
+* i18n / Translation Support
+* Custom Type Definitions
 
-### Machine Learning & AI
+### Project Structure
 
-* TensorFlow / Keras
-* Convolutional Neural Networks (CNN)
-* Grad-CAM
-* Explainable AI (XAI)
-* Neuro-Symbolic AI
+* Component-Based Architecture
+* Modular Code Organization
+* Reusable UI Components
+
+### Development Tools
+
+* VS Code
+* Git & GitHub
+* npm
 
 ### Deployment
 
 * Netlify
 
-### Tools & Libraries
+---
 
-* NumPy
-* Pandas
-* Matplotlib
-* Scikit-learn
+## ✨ Features
+
+* 🧠 AI-powered clinical decision support
+* 🔍 Explainable AI (XAI) based insights
+* 📊 Interactive and responsive dashboard
+* 🌐 Multi-language support
+* ⚡ Fast performance using Vite
+* 📱 Responsive UI for different devices
+* 🔒 Transparent and interpretable predictions
+* 🎯 User-friendly interface for healthcare applications
 
 ---
 
@@ -68,24 +69,17 @@ python app.py
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Prediction Dashboard
-* Grad-CAM Visualization
-* Results Page
-
----
-
 ## 🎯 Future Enhancements
 
-* Multi-modal medical data support
-* Advanced explainability techniques
-* Model optimization for faster inference
-* Integration with clinical datasets
-* Cloud deployment with APIs
+* 🔗 Integration of pre-trained Machine Learning and Deep Learning models into the web application.
+* ☁️ Cloud deployment for scalable and real-time predictions.
+* 📊 Advanced explainability techniques for enhanced model interpretability.
+* 🧠 Support for additional neurological datasets and multi-modal data.
+* ⚡ Optimization of model inference for faster performance.
+* 🔒 Enhanced security and privacy mechanisms for clinical data.
+* 📡 API integration for seamless communication between frontend and AI models.
+* 📈 Continuous learning and model updates for improved accuracy.
+
 
 ---
 
